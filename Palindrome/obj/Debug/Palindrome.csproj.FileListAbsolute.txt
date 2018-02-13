@@ -1,0 +1,9 @@
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.Properties.Resources.resources
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.GenerateResource.Cache
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Brandon Vicinus\source\repos\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
